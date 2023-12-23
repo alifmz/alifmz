@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifmz
-- 👀 I’m interested in electrical engineering and computer engineering
-- 🌱 I’m currently learning python and how to code
+- 👀 I’m interested in Electrical Engineering, Coding, Machine Learning, Data science, Embedded systems and all kinds of Software and Hardware related applications.
+- 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: a.faramarzi.lighvan@gmail.com
 
